@@ -9,7 +9,7 @@ While I'm relatively new to coding, I've quickly developed a passion for creatin
 ## What I'm Doing Now 🚀
 
 - 🔭 **Currently working on:** Digital Brand Studio | Branding + UX UI + Web Design  
-  My side business is a boutique digital studio where I bring together branding, design, copywriting, and development under one roof. Through this venture, I deliver agency-quality work with freelancer-level responsiveness.
+  My side gig is a boutique digital studio where I bring together branding, design, copywriting, and development under one roof. Through this venture, I deliver agency-quality work with freelancer-level responsiveness.
   [LinkedIn Company Page](https://www.linkedin.com/company/melyha-digital)
   
 - 🌱 **Currently learning:** JSON and Bootstrap
