@@ -12,7 +12,6 @@ While I'm relatively new to coding, I've quickly developed a passion for creatin
   My side gig is a boutique digital studio where I bring together branding, design, copywriting, and development under one roof. Through this venture, I deliver agency-quality work with freelancer-level responsiveness.
   [LinkedIn Company Page](https://www.linkedin.com/company/melyha-digital)
   
-- 🌱 **Currently learning:** JSON and Bootstrap
 - 👯 **Looking to collaborate on:** UX projects and product development
 - 🤔 **Seeking help with:** Advanced UX methodologies and product development strategies
 
