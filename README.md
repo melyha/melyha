@@ -1,7 +1,7 @@
 # Hi there, I'm Maleeha [a.k.a. Melyha]! 👋
 
 ## About Me ✨
-Interactive Design student at Saskatchewan Polytech with 1.5 years of coding experience. I combine technical development with creative design to build user-focused digital solutions. Currently running a digital studio specializing in branding, UX/UI, and web development.
+Interactive Design student at Saskatchewan Polytech with 1.5 years of coding experience. I combine technical development with creative design to build user-focused digital solutions. Experienced in branding, UX/UI, and web development through freelance projects.
 
 **🎯 Seeking:** UX/UI Designer or Frontend Developer internships
 
