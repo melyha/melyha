@@ -57,7 +57,7 @@ Interactive Design student at Saskatchewan Polytech with 1.5 years of coding exp
 
 ## Let's Connect! 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maleehaali)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://melyha.digital)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://melxcreative.com)
 
 ---
 *Building user-centered digital experiences through code and design* ✨
