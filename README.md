@@ -17,7 +17,7 @@ Interactive Design student at Saskatchewan Polytech with 1.5 years of coding exp
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge&logo=fastapi&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6B35?style=for-the-badge&logo=api&logoColor=white)
 
 ### Mobile & Cross-Platform
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
